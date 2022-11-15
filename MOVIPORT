@@ -1,0 +1,533 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="|ES|TVE_LA_1_HD" tvg-logo="http://i.imgur.com/XtAYr2M.png" group-title="Espagnoles (España)",|ES|TVE_LA_1_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/433
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="|ES|LA_1_FHD" tvg-logo="http://i.imgur.com/XtAYr2M.png" group-title="Espagnoles (España)",|ES|LA_1_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2152
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 1 NEUTRA HD" tvg-logo="" group-title="Espagnoles (España)",|ES| LA 1 NEUTRA HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74052
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 1 CATALUNA HD" tvg-logo="" group-title="Espagnoles (España)",|ES| LA 1 CATALUNA HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74050
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="|ES|TVE_LA_2_HD" tvg-logo="http://i.imgur.com/VprG0bb.png" group-title="Espagnoles (España)",|ES|TVE_LA_2_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/435
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="|ES|ANTENNA_3 HD" tvg-logo="http://i.imgur.com/tMp0lYH.png" group-title="Espagnoles (España)",|ES|ANTENNA_3 HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/617
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="|ES|ANTENNA_3_FHD" tvg-logo="http://i.imgur.com/tMp0lYH.png" group-title="Espagnoles (España)",|ES|ANTENNA_3_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2150
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="|ES|CUATRO_HD" tvg-logo="http://i.imgur.com/nmYUcNR.png" group-title="Espagnoles (España)",|ES|CUATRO_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/581
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="|ES|CUATRO_FHD" tvg-logo="http://i.imgur.com/nmYUcNR.png" group-title="Espagnoles (España)",|ES|CUATRO_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2151
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="|ES|TELECINCO_HD" tvg-logo="http://i.imgur.com/596NBnH.png" group-title="Espagnoles (España)",|ES|TELECINCO_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/434
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="|ES|TELECINCO_FHD" tvg-logo="http://i.imgur.com/596NBnH.png" group-title="Espagnoles (España)",|ES|TELECINCO_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2149
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="|ES|LA_SEXTA_HD" tvg-logo="http://i.imgur.com/19mt7Mr.png" group-title="Espagnoles (España)",|ES|LA_SEXTA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/432
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="|ES|LA_SEXTA_FHD" tvg-logo="http://i.imgur.com/19mt7Mr.png" group-title="Espagnoles (España)",|ES|LA_SEXTA_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2148
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA 8 MEDITERRANEO SD" tvg-logo="" group-title="Espagnoles (España)",|ES| LA 8 MEDITERRANEO SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74053
+#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="|ES| LA OTRA HD" tvg-logo="" group-title="Espagnoles (España)",|ES| LA OTRA HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74054
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="|ES| TELE MADRID HD" tvg-logo="" group-title="Espagnoles (España)",|ES| TELE MADRID HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74066
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="|ES| TELE MADRID FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| TELE MADRID FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74067
+#EXTINF:-1 tvg-id="TPA7.es" tvg-name="|ES| TPA 7 SD" tvg-logo="" group-title="Espagnoles (España)",|ES| TPA 7 SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74072
+#EXTINF:-1 tvg-id="TPA8.es" tvg-name="|ES| TPA 8 SD" tvg-logo="" group-title="Espagnoles (España)",|ES| TPA 8 SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74073
+#EXTINF:-1 tvg-id="TvCanaria.es" tvg-name="|ES| TV CANARIA HD" tvg-logo="" group-title="Espagnoles (España)",|ES| TV CANARIA HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74076
+#EXTINF:-1 tvg-id="TVGalicia.es" tvg-name="|ES|TV_GALICIA" tvg-logo="http://i.imgur.com/0mZLMKn.png" group-title="Espagnoles (España)",|ES|TV_GALICIA
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/618
+#EXTINF:-1 tvg-id="TVG.es" tvg-name="|ES| TVG HD" tvg-logo="" group-title="Espagnoles (España)",|ES| TVG HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74078
+#EXTINF:-1 tvg-id="tvG2.es" tvg-name="|ES| TVG 2 HD" tvg-logo="" group-title="Espagnoles (España)",|ES| TVG 2 HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74077
+#EXTINF:-1 tvg-id="8tv.es" tvg-name="|ES| 8 TV HD" tvg-logo="" group-title="Espagnoles (España)",|ES| 8 TV HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74010
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 8 MADRID SD" tvg-logo="" group-title="Espagnoles (España)",|ES| 8 MADRID SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74011
+#EXTINF:-1 tvg-id="CMM.es" tvg-name="|ES| CASTILLA LA MANCHA HD" tvg-logo="" group-title="Espagnoles (España)",|ES| CASTILLA LA MANCHA HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74029
+#EXTINF:-1 tvg-id="" tvg-name="|ES|24_HORAS" tvg-logo="" group-title="Espagnoles (España)",|ES|24_HORAS
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2123
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TV3 HD" tvg-logo="" group-title="Espagnoles (España)",|ES| TV3 HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74075
+#EXTINF:-1 tvg-id="TVIInt.pt" tvg-name="|ES| TVEi" tvg-logo="" group-title="Espagnoles (España)",|ES| TVEi
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/1901
+#EXTINF:-1 tvg-id="ETB1.es" tvg-name="|ES| ETB 1 HD" tvg-logo="" group-title="Espagnoles (España)",|ES| ETB 1 HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74038
+#EXTINF:-1 tvg-id="ETB2.es" tvg-name="|ES| ETB 2 HD" tvg-logo="" group-title="Espagnoles (España)",|ES| ETB 2 HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74039
+#EXTINF:-1 tvg-id="ETBBasque.es" tvg-name="|ES| ETIB BASQUE HD" tvg-logo="" group-title="Espagnoles (España)",|ES| ETIB BASQUE HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74041
+#EXTINF:-1 tvg-id="" tvg-name="|ES|TELENOVELAS_HD" tvg-logo="" group-title="Espagnoles (España)",|ES|TELENOVELAS_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2121
+#EXTINF:-1 tvg-id="" tvg-name="|ES| NEGOCIOS TV SD" tvg-logo="" group-title="Espagnoles (España)",|ES| NEGOCIOS TV SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74059
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BETEVé HD" tvg-logo="" group-title="Espagnoles (España)",|ES| BETEVé HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74019
+#EXTINF:-1 tvg-id="" tvg-name="|ES|13_TV" tvg-logo="" group-title="Espagnoles (España)",|ES|13_TV
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6056
+#EXTINF:-1 tvg-id="AragonTV.es" tvg-name="|ES|ARAGON_TV" tvg-logo="" group-title="Espagnoles (España)",|ES|ARAGON_TV
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6055
+#EXTINF:-1 tvg-id="CaracolTV.es" tvg-name="|ES|CARACOL" tvg-logo="" group-title="Espagnoles (España)",|ES|CARACOL
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3145
+#EXTINF:-1 tvg-id="Caracol.es" tvg-name="|ES| CARACOL TV FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| CARACOL TV FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/19611
+#EXTINF:-1 tvg-id="FDF.es" tvg-name="|ES|FACTORIA_DE_FICCION" tvg-logo="http://i.imgur.com/umQTdyW.png" group-title="Espagnoles (España)",|ES|FACTORIA_DE_FICCION
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/847
+#EXTINF:-1 tvg-id="CanalSur1.es" tvg-name="|ES| CANAL SUR INTENATIONAL HD" tvg-logo="" group-title="Espagnoles (España)",|ES| CANAL SUR INTENATIONAL HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74028
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="|ES|CANAL_SUR_ANDALUCIA" tvg-logo="http://i.imgur.com/O95lhg8.png" group-title="Espagnoles (España)",|ES|CANAL_SUR_ANDALUCIA
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/715
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7 ANDALUCIA SD" tvg-logo="" group-title="Espagnoles (España)",|ES| 7 ANDALUCIA SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74006
+#EXTINF:-1 tvg-id="" tvg-name="|ES|TV_ALICANTE" tvg-logo="" group-title="Espagnoles (España)",|ES|TV_ALICANTE
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/739
+#EXTINF:-1 tvg-id="ElToro.es" tvg-name="|ES| EL_TORO_TV_HD" tvg-logo="" group-title="Espagnoles (España)",|ES| EL_TORO_TV_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/7005
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7 REGION DE MURCIA SD" tvg-logo="" group-title="Espagnoles (España)",|ES| 7 REGION DE MURCIA SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/40862
+#EXTINF:-1 tvg-id="" tvg-name="|ES| 7 SD" tvg-logo="" group-title="Espagnoles (España)",|ES| 7 SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74007
+#EXTINF:-1 tvg-id="7tv.es" tvg-name="|ES| 7 REGION DE MURCIA HD" tvg-logo="" group-title="Espagnoles (España)",|ES| 7 REGION DE MURCIA HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74009
+#EXTINF:-1 tvg-id="" tvg-name="|ES| APUNT 6 HD" tvg-logo="" group-title="Espagnoles (España)",|ES| APUNT 6 HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74014
+#EXTINF:-1 tvg-id="Apunt.es" tvg-name="|ES| A PUNT FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| A PUNT FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/40820
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CANAL BALEARES SD" tvg-logo="" group-title="Espagnoles (España)",|ES| CANAL BALEARES SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74027
+#EXTINF:-1 tvg-id="Trece.es" tvg-name="|ES| TRECE 7 SD" tvg-logo="" group-title="Espagnoles (España)",|ES| TRECE 7 SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74074
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DE_PELICULA" tvg-logo="" group-title="Espagnoles (España)",|ES|DE_PELICULA
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6992
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DE_PELICULA_PLUS" tvg-logo="" group-title="Espagnoles (España)",|ES|DE_PELICULA_PLUS
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6991
+#EXTINF:-1 tvg-id="" tvg-name="|ES|RTVCE" tvg-logo="" group-title="Espagnoles (España)",|ES|RTVCE
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6989
+#EXTINF:-1 tvg-id="" tvg-name="|ES|EXTREMADURA_TV_TNT" tvg-logo="" group-title="Espagnoles (España)",|ES|EXTREMADURA_TV_TNT
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6977
+#EXTINF:-1 tvg-id="324.es" tvg-name="|ES| 3/24 HD" tvg-logo="" group-title="Espagnoles (España)",|ES| 3/24 HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74005
+#EXTINF:-1 tvg-id="" tvg-name="|ES| IB3 GLOCAL SD" tvg-logo="" group-title="Espagnoles (España)",|ES| IB3 GLOCAL SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74044
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TV HOSPITALET HD" tvg-logo="" group-title="Espagnoles (España)",|ES| TV HOSPITALET HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74079
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TERRAMAR GARRAFPENEDES SD" tvg-logo="" group-title="Espagnoles (España)",|ES| TERRAMAR GARRAFPENEDES SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74069
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TERRAMAR TARRAGONA SD" tvg-logo="" group-title="Espagnoles (España)",|ES| TERRAMAR TARRAGONA SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74070
+#EXTINF:-1 tvg-id="" tvg-name="|ES| VOTV SD" tvg-logo="" group-title="Espagnoles (España)",|ES| VOTV SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74083
+#EXTINF:-1 tvg-id="" tvg-name="|ES| VALLESVISIO SD" tvg-logo="" group-title="Espagnoles (España)",|ES| VALLESVISIO SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74080
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BONDIA TV SD" tvg-logo="" group-title="Espagnoles (España)",|ES| BONDIA TV SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74023
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CUBAVISION SD" tvg-logo="" group-title="Espagnoles (España)",|ES| CUBAVISION SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74031
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ ES ▀▄▀▄▀▄  CINE ▄▀▄▀▄▀" tvg-logo="" group-title="Espagnoles (España)",▀▄ ES ▀▄▀▄▀▄  CINE ▄▀▄▀▄▀
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3714
+#EXTINF:-1 tvg-id="AXNhd.sp" tvg-name="|ES|AXN_HD" tvg-logo="http://i.imgur.com/WAaY3sT.png" group-title="Espagnoles (España)",|ES|AXN_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/631
+#EXTINF:-1 tvg-id="AXNhd.sp" tvg-name="|ES|AXN_FHD" tvg-logo="http://i.imgur.com/WAaY3sT.png" group-title="Espagnoles (España)",|ES|AXN_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2263
+#EXTINF:-1 tvg-id="AXNhd.es" tvg-name="|ES| AXN VOST ES HD" tvg-logo="" group-title="Espagnoles (España)",|ES| AXN VOST ES HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74015
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="|ES|AXN_WHITE_HD" tvg-logo="http://i.imgur.com/3geLFGb.png" group-title="Espagnoles (España)",|ES|AXN_WHITE_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/632
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="|ES| AXN WHITE VOST ES HD" tvg-logo="" group-title="Espagnoles (España)",|ES| AXN WHITE VOST ES HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74016
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="|ES|AXN_WHITE_FHD" tvg-logo="http://i.imgur.com/3geLFGb.png" group-title="Espagnoles (España)",|ES|AXN_WHITE_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2264
+#EXTINF:-1 tvg-id="Fox.sp" tvg-name="|ES|FOX_HD" tvg-logo="http://i.imgur.com/DDB0iSK.png" group-title="Espagnoles (España)",|ES|FOX_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/630
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="|ES|FOX_FHD" tvg-logo="http://i.imgur.com/DDB0iSK.png" group-title="Espagnoles (España)",|ES|FOX_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2265
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="|ES|AMC_HD" tvg-logo="http://i.imgur.com/MprnsMD.png" group-title="Espagnoles (España)",|ES|AMC_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/810
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AMC CRIME FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| AMC CRIME FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74062
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AMC BREAK FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| AMC BREAK FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/33427
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="|ES|COSMO_HD" tvg-logo="http://i.imgur.com/uujFhEy.png" group-title="Espagnoles (España)",|ES|COSMO_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/809
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="|ES|COSMO_FHD" tvg-logo="http://i.imgur.com/uujFhEy.png" group-title="Espagnoles (España)",|ES|COSMO_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2205
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="|ES|CALLE_13_HD" tvg-logo="http://i.imgur.com/R81C6jN.png" group-title="Espagnoles (España)",|ES|CALLE_13_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/713
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="|ES| CALLE 13 VOST ES HD" tvg-logo="" group-title="Espagnoles (España)",|ES| CALLE 13 VOST ES HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74024
+#EXTINF:-1 tvg-id="Somos.es" tvg-name="|ES| SOMOS TV HD" tvg-logo="" group-title="Espagnoles (España)",|ES| SOMOS TV HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74061
+#EXTINF:-1 tvg-id="Neox.sp" tvg-name="|ES|NEOX" tvg-logo="http://i.imgur.com/DrOdroa.png" group-title="Espagnoles (España)",|ES|NEOX
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/625
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="|ES|DIVINITY" tvg-logo="http://i.imgur.com/GJnqReJ.png" group-title="Espagnoles (España)",|ES|DIVINITY
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/965
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="|ES|ENERGY" tvg-logo="http://i.imgur.com/p5NMdYu.png" group-title="Espagnoles (España)",|ES|ENERGY
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/846
+#EXTINF:-1 tvg-id="Nova.sp" tvg-name="|ES|NOVA_HD" tvg-logo="http://i.imgur.com/zzGWcSM.png" group-title="Espagnoles (España)",|ES|NOVA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/722
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DARK SOLO HD" tvg-logo="" group-title="Espagnoles (España)",|ES| DARK SOLO HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74033
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TEN HD" tvg-logo="" group-title="Espagnoles (España)",|ES| TEN HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74068
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="|ES| XTRM HD" tvg-logo="" group-title="Espagnoles (España)",|ES| XTRM HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74084
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="|ES|ENERGY" tvg-logo="" group-title="Espagnoles (España)",|ES|ENERGY
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6978
+#EXTINF:-1 tvg-id="Scifi.sp" tvg-name="|ES|SYFY_FHD" tvg-logo="https://i.imgur.com/3LroLPZ.png" group-title="Espagnoles (España)",|ES|SYFY_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/716
+#EXTINF:-1 tvg-id="Scifi.es" tvg-name="|ES| SYFY VOST ES HD" tvg-logo="" group-title="Espagnoles (España)",|ES| SYFY VOST ES HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74063
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="|ES|#0_HD" tvg-logo="http://i.imgur.com/VcfG0YY.png" group-title="Espagnoles (España)",|ES|#0_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/662
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="|ES|#0_FHD" tvg-logo="http://i.imgur.com/VcfG0YY.png" group-title="Espagnoles (España)",|ES|#0_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/7012
+#EXTINF:-1 tvg-id="M.Comedia.es" tvg-name="|ES|MOVISTAR_COMEDIA_HD" tvg-logo="http://i.imgur.com/lcfBDS7.png" group-title="Espagnoles (España)",|ES|MOVISTAR_COMEDIA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/628
+#EXTINF:-1 tvg-id="M.Comedia.es" tvg-name="|ES|MOVISTAR_COMEDIA_FHD" tvg-logo="http://i.imgur.com/lcfBDS7.png" group-title="Espagnoles (España)",|ES|MOVISTAR_COMEDIA_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2238
+#EXTINF:-1 tvg-id="" tvg-name="|ES|ORANGE_SERIES_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|ORANGE_SERIES_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/831
+#EXTINF:-1 tvg-id="M.Drama.es" tvg-name="|ES|MOVISTAR_DRAMA_HD" tvg-logo="https://i.imgur.com/VvqMFzP.png" group-title="Espagnoles (España)",|ES|MOVISTAR_DRAMA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/821
+#EXTINF:-1 tvg-id="M.Drama.es" tvg-name="|ES|MOVISTAR_DRAMA_FHD" tvg-logo="https://i.imgur.com/VvqMFzP.png" group-title="Espagnoles (España)",|ES|MOVISTAR_DRAMA_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2113
+#EXTINF:-1 tvg-id="DCineEsp.es" tvg-name="|ES|MOVISTAR_CINE_ESPANOL_HD" tvg-logo="" group-title="Espagnoles (España)",|ES|MOVISTAR_CINE_ESPANOL_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2239
+#EXTINF:-1 tvg-id="M.Clasicos.es" tvg-name="|ES|MOVISTAR_CLASICOS_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|MOVISTAR_CLASICOS_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6995
+#EXTINF:-1 tvg-id="M.Series.es" tvg-name="|ES|MOVISTAR_SERIES_HD" tvg-logo="http://i.imgur.com/4Bz5eA4.png" group-title="Espagnoles (España)",|ES|MOVISTAR_SERIES_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/807
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="|ES|MOVISTAR_SERIES_FHD" tvg-logo="http://i.imgur.com/4Bz5eA4.png" group-title="Espagnoles (España)",|ES|MOVISTAR_SERIES_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2114
+#EXTINF:-1 tvg-id="M.Series2.es" tvg-name="|ES|MOVISTAR_SERIES_2_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|MOVISTAR_SERIES_2_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/637
+#EXTINF:-1 tvg-id="CcanalPlusSeriesXtra.es" tvg-name="|ES|MOVISTAR_SERIES_MANIA_HD" tvg-logo="http://i.imgur.com/MqqDOOg.png" group-title="Espagnoles (España)",|ES|MOVISTAR_SERIES_MANIA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/636
+#EXTINF:-1 tvg-id="M.Accion.es" tvg-name="|ES|MOVISTAR_ACCION_HD" tvg-logo="http://i.imgur.com/6l7rNTR.png" group-title="Espagnoles (España)",|ES|MOVISTAR_ACCION_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/364
+#EXTINF:-1 tvg-id="M.Accion.es" tvg-name="|ES|MOVISTAR_ACCION_FHD" tvg-logo="http://i.imgur.com/6l7rNTR.png" group-title="Espagnoles (España)",|ES|MOVISTAR_ACCION_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2267
+#EXTINF:-1 tvg-id="M.Estrenos.es" tvg-name="|ES|MOVISTAR_ESTRENOS_HD" tvg-logo="http://i.imgur.com/noM01bO.png" group-title="Espagnoles (España)",|ES|MOVISTAR_ESTRENOS_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/703
+#EXTINF:-1 tvg-id="M.Estrenos.es" tvg-name="|ES|MOVISTAR_ESTRENOS_FHD (DOUBLE AUDIO)" tvg-logo="http://i.imgur.com/noM01bO.png" group-title="Espagnoles (España)",|ES|MOVISTAR_ESTRENOS_FHD (DOUBLE AUDIO)
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2085
+#EXTINF:-1 tvg-id="M.Estrenos2.es" tvg-name="|ES|MOVISTAR_ESTRENOS_2_HD" tvg-logo="https://i.imgur.com/TLeiIrW.png" group-title="Espagnoles (España)",|ES|MOVISTAR_ESTRENOS_2_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2120
+#EXTINF:-1 tvg-id="M.Estrenos2.es" tvg-name="|ES|MOVISTAR_ESTRENOS_2_FHD" tvg-logo="https://i.imgur.com/TLeiIrW.png" group-title="Espagnoles (España)",|ES|MOVISTAR_ESTRENOS_2_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/7006
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ ES ▀▄▀▄▀▄ ENTRETENIMIENTO ▄▀▄▀▄▀" tvg-logo="" group-title="Espagnoles (España)",▀▄ ES ▀▄▀▄▀▄ ENTRETENIMIENTO ▄▀▄▀▄▀
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3718
+#EXTINF:-1 tvg-id="M.Fest.es" tvg-name="|ES|MOVISTAR_FEST_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|MOVISTAR_FEST_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2281
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="|ES|COMEDY_CENTRAL_HD" tvg-logo="http://i.imgur.com/YwFrAKY.png" group-title="Espagnoles (España)",|ES|COMEDY_CENTRAL_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/717
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="|ES|COMEDY_CENTRAL_FHD" tvg-logo="http://i.imgur.com/YwFrAKY.png" group-title="Espagnoles (España)",|ES|COMEDY_CENTRAL_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2204
+#EXTINF:-1 tvg-id="" tvg-name="|ES|M_LA_RESISTENCIA" tvg-logo="" group-title="Espagnoles (España)",|ES|M_LA_RESISTENCIA
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/629
+#EXTINF:-1 tvg-id="" tvg-name="|ES|M_VACACIONES_HD" tvg-logo="" group-title="Espagnoles (España)",|ES|M_VACACIONES_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2201
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BOM CINE SD" tvg-logo="" group-title="Espagnoles (España)",|ES| BOM CINE SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74022
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CINE VERDI TV HD" tvg-logo="" group-title="Espagnoles (España)",|ES| CINE VERDI TV HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74030
+#EXTINF:-1 tvg-id="" tvg-name="|ES| VERDI CLASSICS HD" tvg-logo="" group-title="Espagnoles (España)",|ES| VERDI CLASSICS HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74081
+#EXTINF:-1 tvg-id="TCM.sp" tvg-name="|ES|TCM_HD" tvg-logo="https://i.imgur.com/88Ilenw.png" group-title="Espagnoles (España)",|ES|TCM_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/702
+#EXTINF:-1 tvg-id="" tvg-name="|ES| TCM VOST ES HD" tvg-logo="" group-title="Espagnoles (España)",|ES| TCM VOST ES HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74064
+#EXTINF:-1 tvg-id="Hollywood.sp" tvg-name="|ES|HOLLYWOOD_HD" tvg-logo="http://i.imgur.com/XeObews.png" group-title="Espagnoles (España)",|ES|HOLLYWOOD_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/635
+#EXTINF:-1 tvg-id="Sundance.es" tvg-name="|ES|SUNDANCE_HD" tvg-logo="http://i.imgur.com/dJR9EBn.png" group-title="Espagnoles (España)",|ES|SUNDANCE_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/852
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="|ES|PARAMOUNT_CHANNEL" tvg-logo="http://i.imgur.com/0UR3OJo.png" group-title="Espagnoles (España)",|ES|PARAMOUNT_CHANNEL
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/634
+#EXTINF:-1 tvg-id="TNT.sp" tvg-name="|ES|TNT_HD" tvg-logo="http://i.imgur.com/BhEJRHy.png" group-title="Espagnoles (España)",|ES|TNT_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/714
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="|ES| TNT VOST ES HD" tvg-logo="" group-title="Espagnoles (España)",|ES| TNT VOST ES HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74071
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="|ES|MEGA_HD" tvg-logo="http://i.imgur.com/u0t1Emt.png" group-title="Espagnoles (España)",|ES|MEGA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/836
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AZCINEMA FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| AZCINEMA FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/40810
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AZMUNDO FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| AZMUNDO FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/26441
+#EXTINF:-1 tvg-id="" tvg-name="|ES| AZCLIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| AZCLIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/40795
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="|ES|A3SERIES_HD" tvg-logo="http://i.imgur.com/fuD7uhF.png" group-title="Espagnoles (España)",|ES|A3SERIES_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/964
+#EXTINF:-1 tvg-id="A3seriesHD.es" tvg-name="|ES| A3 SERIES INTERNATIONAL SD" tvg-logo="" group-title="Espagnoles (España)",|ES| A3 SERIES INTERNATIONAL SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74012
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ ES ▀▄▀▄▀▄ DEPORTES ▄▀▄▀▄▀" tvg-logo="" group-title="Espagnoles (España)",▀▄ ES ▀▄▀▄▀▄ DEPORTES ▄▀▄▀▄▀
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3716
+#EXTINF:-1 tvg-id="M.Deportes1.es" tvg-name="|ES|MOVISTAR_DEPORTES_1_HD" tvg-logo="http://i.imgur.com/4llinzb.png" group-title="Espagnoles (España)",|ES|MOVISTAR_DEPORTES_1_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/594
+#EXTINF:-1 tvg-id="CanalPlusDeportes.es" tvg-name="|ES|MOVISTAR_DEPORTES_1_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|MOVISTAR_DEPORTES_1_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6054
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="|ES|VAMOS_HD" tvg-logo="https://i.imgur.com/OnkqNmb.png" group-title="Espagnoles (España)",|ES|VAMOS_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/593
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="|ES|VAMOS_FHD" tvg-logo="https://i.imgur.com/OnkqNmb.png" group-title="Espagnoles (España)",|ES|VAMOS_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2266
+#EXTINF:-1 tvg-id="M.Formula1.es" tvg-name="|ES|MOVISTAR_F1_HD" tvg-logo="http://i.imgur.com/9db4VlE.png" group-title="Espagnoles (España)",|ES|MOVISTAR_F1_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/621
+#EXTINF:-1 tvg-id="M.Formula1.es" tvg-name="|ES|MOVISTAR_F1_FHD" tvg-logo="http://i.imgur.com/9db4VlE.png" group-title="Espagnoles (España)",|ES|MOVISTAR_F1_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2574
+#EXTINF:-1 tvg-id="" tvg-name="|ES|TYC_SPORTS_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|TYC_SPORTS_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6979
+#EXTINF:-1 tvg-id="" tvg-name="|ES|TYC_SPORTS_HD" tvg-logo="" group-title="Espagnoles (España)",|ES|TYC_SPORTS_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/622
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="|ES|MOVISTAR _LIGA_DE_CAMPEONES_SD" tvg-logo="https://i.imgur.com/DfDBuGh.png" group-title="Espagnoles (España)",|ES|MOVISTAR _LIGA_DE_CAMPEONES_SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/361
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="|ES|MOVISTAR _LIGA_DE_CAMPEONES_HD" tvg-logo="https://i.imgur.com/DfDBuGh.png" group-title="Espagnoles (España)",|ES|MOVISTAR _LIGA_DE_CAMPEONES_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/14624
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="|ES|MOVISTAR _LIGA_DE_CAMPEONES_FHD" tvg-logo="https://i.imgur.com/DfDBuGh.png" group-title="Espagnoles (España)",|ES|MOVISTAR _LIGA_DE_CAMPEONES_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2083
+#EXTINF:-1 tvg-id="M.LigaCampeones.es" tvg-name="|ES|M.LIGA_DE_CAMPEONES_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|M.LIGA_DE_CAMPEONES_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/827
+#EXTINF:-1 tvg-id="M.LigaCampeones1.es" tvg-name="|ES|LIGA_DE_CAMPEONES_1_FHD(Solo partidos)" tvg-logo="" group-title="Espagnoles (España)",|ES|LIGA_DE_CAMPEONES_1_FHD(Solo partidos)
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6884
+#EXTINF:-1 tvg-id="M.LigaCampeones2.es" tvg-name="|ES|LIGA_DE_CAMPEONES_2_FHD(Solo partidos)" tvg-logo="" group-title="Espagnoles (España)",|ES|LIGA_DE_CAMPEONES_2_FHD(Solo partidos)
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6885
+#EXTINF:-1 tvg-id="M.LigaCampeones3.es" tvg-name="|ES|LIGA_DE_CAMPEONES_3_FHD_(Solo_partidos)" tvg-logo="" group-title="Espagnoles (España)",|ES|LIGA_DE_CAMPEONES_3_FHD_(Solo_partidos)
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2282
+#EXTINF:-1 tvg-id="M.LigaCampeones4.es" tvg-name="|ES|LIGA_DE_CAMPEONES_4_FHD_(Solo_partidos)" tvg-logo="" group-title="Espagnoles (España)",|ES|LIGA_DE_CAMPEONES_4_FHD_(Solo_partidos)
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2283
+#EXTINF:-1 tvg-id="M.LigaCampeones5.es" tvg-name="|ES|LIGA_DE_CAMPEONES_5_FHD_(Solo_partidos)" tvg-logo="" group-title="Espagnoles (España)",|ES|LIGA_DE_CAMPEONES_5_FHD_(Solo_partidos)
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2284
+#EXTINF:-1 tvg-id="M.LigaCampeones6.es" tvg-name="|ES|LIGA_DE_CAMPEONES_6_FHD_(Solo_partidos)" tvg-logo="" group-title="Espagnoles (España)",|ES|LIGA_DE_CAMPEONES_6_FHD_(Solo_partidos)
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2285
+#EXTINF:-1 tvg-id="M.LigaCampeones7.es" tvg-name="|ES|LIGA_DE_CAMPEONES_7_FHD_(Solo_partidos)" tvg-logo="" group-title="Espagnoles (España)",|ES|LIGA_DE_CAMPEONES_7_FHD_(Solo_partidos)
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/43856
+#EXTINF:-1 tvg-id="M.LigaCampeones8.es" tvg-name="|ES|LIGA_DE_CAMPEONES_8_FHD_(Solo_partidos)" tvg-logo="" group-title="Espagnoles (España)",|ES|LIGA_DE_CAMPEONES_8_FHD_(Solo_partidos)
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/43855
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="|ES|MOVISTAR_LALIGA_SD" tvg-logo="https://i.imgur.com/Pfe73OM.png" group-title="Espagnoles (España)",|ES|MOVISTAR_LALIGA_SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/362
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="|ES|MOVISTAR_LALIGA_HD" tvg-logo="https://i.imgur.com/Pfe73OM.png" group-title="Espagnoles (España)",|ES|MOVISTAR_LALIGA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/14973
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="|ES|MOVISTAR_LALIGA_FHD" tvg-logo="https://i.imgur.com/Pfe73OM.png" group-title="Espagnoles (España)",|ES|MOVISTAR_LALIGA_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2082
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="|ES|MOVISTAR+ LALIGA_1_HD" tvg-logo="http://i.imgur.com/Xxly07K.png" group-title="Espagnoles (España)",|ES|MOVISTAR+ LALIGA_1_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/641
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="|ES|MOVISTAR+ LALIGA_1_FHD" tvg-logo="https://i.imgur.com/lkdG4dS.png" group-title="Espagnoles (España)",|ES|MOVISTAR+ LALIGA_1_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2115
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="|ES|MOVISTAR+_LALIGA_2_FHD" tvg-logo="https://i.imgur.com/5ihLSnl.png" group-title="Espagnoles (España)",|ES|MOVISTAR+_LALIGA_2_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6984
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="|ES|MOVISTAR+_LALIGA_3_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|MOVISTAR+_LALIGA_3_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/43857
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LALIGA_SMARTBANK_TV_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| LALIGA_SMARTBANK_TV_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/19617
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LALIGA_SMARTBANK_TV_1_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| LALIGA_SMARTBANK_TV_1_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/19616
+#EXTINF:-1 tvg-id="LaLigaTVBar2.es" tvg-name="|ES|DAZN_LALIGA_HD" tvg-logo="https://i.imgur.com/PdOEpxe.png" group-title="Espagnoles (España)",|ES|DAZN_LALIGA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/26413
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_FHD" tvg-logo="https://i.imgur.com/PdOEpxe.png" group-title="Espagnoles (España)",|ES|DAZN_LALIGA_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/35117
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_1_HD" tvg-logo="https://i.imgur.com/pKH9pye.png" group-title="Espagnoles (España)",|ES|DAZN_LALIGA_1_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/26406
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_1_FHD" tvg-logo="https://i.imgur.com/pKH9pye.png" group-title="Espagnoles (España)",|ES|DAZN_LALIGA_1_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/26366
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_2_HD" tvg-logo="https://i.imgur.com/HvmoWVo.png" group-title="Espagnoles (España)",|ES|DAZN_LALIGA_2_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/19711
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DAZN_LALIGA_2_FHD" tvg-logo="https://i.imgur.com/HvmoWVo.png" group-title="Espagnoles (España)",|ES|DAZN_LALIGA_2_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/26440
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="|ES|DAZN_1_HD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="Espagnoles (España)",|ES|DAZN_1_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3624
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="|ES|DAZN_1_FHD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="Espagnoles (España)",|ES|DAZN_1_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2155
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="|ES|DAZN_2_HD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="Espagnoles (España)",|ES|DAZN_2_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3608
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="|ES|DAZN_2_FHD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="Espagnoles (España)",|ES|DAZN_2_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/1620
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="|ES|DAZN_3_HD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="Espagnoles (España)",|ES|DAZN_3_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3554
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="|ES|DAZN_3_FHD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="Espagnoles (España)",|ES|DAZN_3_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/1621
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="|ES|DAZN_4_HD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="Espagnoles (España)",|ES|DAZN_4_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2855
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="|ES|DAZN_4_FHD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="Espagnoles (España)",|ES|DAZN_4_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2811
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="|ES|DAZN_F1_HD" tvg-logo="https://i.imgur.com/o1oF4vy.png" group-title="Espagnoles (España)",|ES|DAZN_F1_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3314
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="|ES|DAZN_F1_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|DAZN_F1_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2084
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="|ES| DAZN F1 4K UHD" tvg-logo="" group-title="Espagnoles (España)",|ES| DAZN F1 4K UHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74045
+#EXTINF:-1 tvg-id="" tvg-name="|ES|FOX_SPORT_1_LATINO" tvg-logo="" group-title="Espagnoles (España)",|ES|FOX_SPORT_1_LATINO
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2110
+#EXTINF:-1 tvg-id="" tvg-name="|ES|FOX_SPORT_2_LATINO" tvg-logo="" group-title="Espagnoles (España)",|ES|FOX_SPORT_2_LATINO
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2111
+#EXTINF:-1 tvg-id="" tvg-name="|ES|FOX_SPORT_3_LATINO" tvg-logo="" group-title="Espagnoles (España)",|ES|FOX_SPORT_3_LATINO
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2112
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="|ES|EUROSPORT_1_HD" tvg-logo="http://i.imgur.com/MNX6Be8.png" group-title="Espagnoles (España)",|ES|EUROSPORT_1_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/640
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="|ES|EUROSPORT_1_FHD" tvg-logo="http://i.imgur.com/MNX6Be8.png" group-title="Espagnoles (España)",|ES|EUROSPORT_1_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/4346
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="|ES|EUROSPORT_2_HD" tvg-logo="http://i.imgur.com/tENUR8u.png" group-title="Espagnoles (España)",|ES|EUROSPORT_2_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/695
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="|ES|GOL_TV_HD" tvg-logo="" group-title="Espagnoles (España)",|ES|GOL_TV_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/858
+#EXTINF:-1 tvg-id="Teledeporte.sp" tvg-name="|ES|TELEDEPORTE_HD" tvg-logo="http://i.imgur.com/FFVjhrg.png" group-title="Espagnoles (España)",|ES|TELEDEPORTE_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/863
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="|ES|TELEDEPORTE_FHD" tvg-logo="http://i.imgur.com/FFVjhrg.png" group-title="Espagnoles (España)",|ES|TELEDEPORTE_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2122
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="|ES|BARCA_TV_HD" tvg-logo="http://i.imgur.com/0dJLXsD.png" group-title="Espagnoles (España)",|ES|BARCA_TV_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/643
+#EXTINF:-1 tvg-id="RealMadridTV.sp" tvg-name="|ES|REAL_MADRID_TV" tvg-logo="http://i.imgur.com/OyDzdLL.png" group-title="Espagnoles (España)",|ES|REAL_MADRID_TV
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/620
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BETIS TV" tvg-logo="" group-title="Espagnoles (España)",|ES| BETIS TV
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74020
+#EXTINF:-1 tvg-id="" tvg-name="|ES| SFC TELEVISION SD" tvg-logo="" group-title="Espagnoles (España)",|ES| SFC TELEVISION SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74060
+#EXTINF:-1 tvg-id="" tvg-name="|ES|M_GOLF_HD" tvg-logo="http://i.imgur.com/TsDv1k8.png" group-title="Espagnoles (España)",|ES|M_GOLF_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/660
+#EXTINF:-1 tvg-id="Golf.sp" tvg-name="|ES|M_GOLF_FHD" tvg-logo="http://i.imgur.com/TsDv1k8.png" group-title="Espagnoles (España)",|ES|M_GOLF_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2203
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HORSE TV HD" tvg-logo="" group-title="Espagnoles (España)",|ES| HORSE TV HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2147
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="|ES|CANAL+TOROS_HD" tvg-logo="http://i.imgur.com/cWmQ4W2.png" group-title="Espagnoles (España)",|ES|CANAL+TOROS_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/661
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="|ES|CANAL+TOROS_FHD" tvg-logo="http://i.imgur.com/cWmQ4W2.png" group-title="Espagnoles (España)",|ES|CANAL+TOROS_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6058
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ ES ▀▄▀▄▀▄  SOLO PARTIDOS ▄▀▄▀▄▀" tvg-logo="" group-title="Espagnoles (España)",▀▄ ES ▀▄▀▄▀▄  SOLO PARTIDOS ▄▀▄▀▄▀
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/4113
+#EXTINF:-1 tvg-id="" tvg-name="|ES|MOVISTAR_VHS_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|MOVISTAR_VHS_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/19521
+#EXTINF:-1 tvg-id="M+Ellas#V.es" tvg-name="|ES|MOVISTAR_ELLAS_V_FHD" tvg-logo="" group-title="Espagnoles (España)",|ES|MOVISTAR_ELLAS_V_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/19613
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ESPORT 3 HD" tvg-logo="" group-title="Espagnoles (España)",|ES| ESPORT 3 HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74037
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOTO ADV SD" tvg-logo="" group-title="Espagnoles (España)",|ES| MOTO ADV SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74057
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ ES ▀▄▀▄▀▄ DOCUMENTAL ▄▀▄▀▄▀" tvg-logo="" group-title="Espagnoles (España)",▀▄ ES ▀▄▀▄▀▄ DOCUMENTAL ▄▀▄▀▄▀
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3719
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="|ES|IBERALIA_TV" tvg-logo="http://i.imgur.com/2uhsmPU.png" group-title="Espagnoles (España)",|ES|IBERALIA_TV
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/723
+#EXTINF:-1 tvg-id="DMAX.es" tvg-name="|ES| DMAX HD" tvg-logo="" group-title="Espagnoles (España)",|ES| DMAX HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74034
+#EXTINF:-1 tvg-id="DiscoveryChannel.sp" tvg-name="|ES|DISCOVERY_HD" tvg-logo="http://i.imgur.com/jvvbM2m.png" group-title="Espagnoles (España)",|ES|DISCOVERY_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/642
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="|ES|NAT_GEO_HD" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="Espagnoles (España)",|ES|NAT_GEO_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/597
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="|ES|NAT_GEO_FHD" tvg-logo="http://i.imgur.com/XqYWZwL.png" group-title="Espagnoles (España)",|ES|NAT_GEO_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2154
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="|ES|NAT_GEO_WILD_HD" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="Espagnoles (España)",|ES|NAT_GEO_WILD_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/820
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="|ES|NAT_GEO_WILD_FHD" tvg-logo="http://i.imgur.com/ujxfO8I.png" group-title="Espagnoles (España)",|ES|NAT_GEO_WILD_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2153
+#EXTINF:-1 tvg-id="" tvg-name="|ES|BLAZE_HD" tvg-logo="http://i.imgur.com/iqskkvT.png" group-title="Espagnoles (España)",|ES|BLAZE_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/811
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="|ES|CRIMEN_e_INVESTIGACIóN" tvg-logo="http://i.imgur.com/fTqdgBs.png" group-title="Espagnoles (España)",|ES|CRIMEN_e_INVESTIGACIóN
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/866
+#EXTINF:-1 tvg-id="Odisea.sp" tvg-name="|ES|ODISEA_HD" tvg-logo="http://i.imgur.com/hctMEk7.png" group-title="Espagnoles (España)",|ES|ODISEA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/743
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="|ES| ODISEA 4K UHD" tvg-logo="" group-title="Espagnoles (España)",|ES| ODISEA 4K UHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74013
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="|ES| BE MAD TV HD" tvg-logo="" group-title="Espagnoles (España)",|ES| BE MAD TV HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74018
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="|ES|CAZA_Y_PESCA_HD" tvg-logo="http://i.imgur.com/vNpqyUe.png" group-title="Espagnoles (España)",|ES|CAZA_Y_PESCA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/626
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="|ES|CAZA_Y_PESCA_FHD" tvg-logo="http://i.imgur.com/vNpqyUe.png" group-title="Espagnoles (España)",|ES|CAZA_Y_PESCA_FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2202
+#EXTINF:-1 tvg-id="Cocina.sp" tvg-name="|ES|CANAL_COCINA_HD" tvg-logo="http://i.imgur.com/oRaJMoT.png" group-title="Espagnoles (España)",|ES|CANAL_COCINA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/742
+#EXTINF:-1 tvg-id="Cocina.es" tvg-name="|ES| CANAL COCINA 4K UHD" tvg-logo="" group-title="Espagnoles (España)",|ES| CANAL COCINA 4K UHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74058
+#EXTINF:-1 tvg-id="Decasa.sp" tvg-name="|ES|DECASA_HD" tvg-logo="http://i.imgur.com/ZOa6PZL.png" group-title="Espagnoles (España)",|ES|DECASA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/741
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="|ES| DECASA 4K UHD" tvg-logo="" group-title="Espagnoles (España)",|ES| DECASA 4K UHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74026
+#EXTINF:-1 tvg-id="Historia.sp" tvg-name="|ES|HISTORIA_HD" tvg-logo="http://i.imgur.com/P9kfz8M.png" group-title="Espagnoles (España)",|ES|HISTORIA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/712
+#EXTINF:-1 tvg-id="" tvg-name="|ES|BLAZE" tvg-logo="" group-title="Espagnoles (España)",|ES|BLAZE
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/7008
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DKISS" tvg-logo="" group-title="Espagnoles (España)",|ES|DKISS
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6996
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ANTENNA MOTOR FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| ANTENNA MOTOR FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/69334
+#EXTINF:-1 tvg-id="" tvg-name="|ES| CAZA VISION FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| CAZA VISION FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/69335
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ ES ▀▄▀▄▀▄  NIÑOS ▄▀▄▀▄▀" tvg-logo="" group-title="Espagnoles (España)",▀▄ ES ▀▄▀▄▀▄  NIÑOS ▄▀▄▀▄▀
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3715
+#EXTINF:-1 tvg-id="DisneyChannel.sp" tvg-name="|ES|MOVISTAR _DISNEY" tvg-logo="" group-title="Espagnoles (España)",|ES|MOVISTAR _DISNEY
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6053
+#EXTINF:-1 tvg-id="Disney+.es" tvg-name="|ES|DISNEY+_SD" tvg-logo="" group-title="Espagnoles (España)",|ES|DISNEY+_SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/7010
+#EXTINF:-1 tvg-id="Boing.sp" tvg-name="|ES|BOING" tvg-logo="http://i.imgur.com/qahzABa.png" group-title="Espagnoles (España)",|ES|BOING
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/719
+#EXTINF:-1 tvg-id="Panda.es" tvg-name="|ES|CANAL_PANDA_HD" tvg-logo="http://i.imgur.com/BvvNkf2.png" group-title="Espagnoles (España)",|ES|CANAL_PANDA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/718
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="|ES|DISNEY_CHANNEL_HD" tvg-logo="http://i.imgur.com/YKSujcL.png" group-title="Espagnoles (España)",|ES|DISNEY_CHANNEL_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/848
+#EXTINF:-1 tvg-id="DisneyJr.es" tvg-name="|ES|DISNEY_JR_HD" tvg-logo="http://i.imgur.com/zOkcoC4.png" group-title="Espagnoles (España)",|ES|DISNEY_JR_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/720
+#EXTINF:-1 tvg-id="Nickelodeon.sp" tvg-name="|ES|NICKELODEON_HD" tvg-logo="http://i.imgur.com/CZTnf46.png" group-title="Espagnoles (España)",|ES|NICKELODEON_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/828
+#EXTINF:-1 tvg-id="NickJunior.sp" tvg-name="|ES|NICK_JUNIOR" tvg-logo="http://i.imgur.com/2M70E4X.png" group-title="Espagnoles (España)",|ES|NICK_JUNIOR
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/853
+#EXTINF:-1 tvg-id="" tvg-name="|ES| DUCK TV HD" tvg-logo="" group-title="Espagnoles (España)",|ES| DUCK TV HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/4290
+#EXTINF:-1 tvg-id="ClanTVE.sp" tvg-name="|ES|CLAN_TVE" tvg-logo="" group-title="Espagnoles (España)",|ES|CLAN_TVE
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/721
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="|ES|CLAN_TVE_HD" tvg-logo="" group-title="Espagnoles (España)",|ES|CLAN_TVE_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/7003
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="|ES| BOING HD" tvg-logo="" group-title="Espagnoles (España)",|ES| BOING HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74021
+#EXTINF:-1 tvg-id="" tvg-name="|ES|DREAMWORKS_HD" tvg-logo="" group-title="Espagnoles (España)",|ES|DREAMWORKS_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/18176
+#EXTINF:-1 tvg-id="BabyTV.sp" tvg-name="|ES|BABY_TV" tvg-logo="http://i.imgur.com/mvKqqwO.png" group-title="Espagnoles (España)",|ES|BABY_TV
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/623
+#EXTINF:-1 tvg-id="" tvg-name="▀▄ ES ▀▄▀▄▀▄ MUSICA ▄▀▄▀▄▀" tvg-logo="" group-title="Espagnoles (España)",▀▄ ES ▀▄▀▄▀▄ MUSICA ▄▀▄▀▄▀
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/3717
+#EXTINF:-1 tvg-id="MTVEsp.es" tvg-name="|ES|MTV_ESP" tvg-logo="http://i.imgur.com/yKodmlz.png" group-title="Espagnoles (España)",|ES|MTV_ESP
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/813
+#EXTINF:-1 tvg-id="" tvg-name="|ES|MTV_00_S" tvg-logo="" group-title="Espagnoles (España)",|ES|MTV_00_S
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/18177
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM FOLK MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM FOLK MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/87749
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM GYM MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM GYM MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/87750
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM HIP HOP MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM HIP HOP MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/87751
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM HITS MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM HITS MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/87752
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM JAZZ MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM JAZZ MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/87753
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM LATIN MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM LATIN MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/87755
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM CLASSIC MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM CLASSIC MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/5327
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM DANCE MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM DANCE MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/7163
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM BALADAS MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM BALADAS MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/11448
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM ARABIC MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM ARABIC MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/11451
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM BLUES MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM BLUES MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2246
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HQM CHILL OUT MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| HQM CHILL OUT MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/2245
+#EXTINF:-1 tvg-id="" tvg-name="|ES| +MUSIC FHD" tvg-logo="" group-title="Espagnoles (España)",|ES| +MUSIC FHD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/40863
+#EXTINF:-1 tvg-id="" tvg-name="|ES| HIT TV SD" tvg-logo="" group-title="Espagnoles (España)",|ES| HIT TV SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74043
+#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="|ES| MEZZO HD" tvg-logo="" group-title="Espagnoles (España)",|ES| MEZZO HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74055
+#EXTINF:-1 tvg-id="MezzoLiveHD.es" tvg-name="|ES| MEZZO LIVE HD" tvg-logo="" group-title="Espagnoles (España)",|ES| MEZZO LIVE HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74056
+#EXTINF:-1 tvg-id="" tvg-name="|ES| VH1 SD" tvg-logo="" group-title="Espagnoles (España)",|ES| VH1 SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74082
+#EXTINF:-1 tvg-id="SolMusica.sp" tvg-name="|ES|SOL_MUSICA_HD" tvg-logo="" group-title="Espagnoles (España)",|ES|SOL_MUSICA_HD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/18178
+#EXTINF:-1 tvg-id="Classica.es" tvg-name="|ES|CLASSICA_TNT" tvg-logo="" group-title="Espagnoles (España)",|ES|CLASSICA_TNT
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/7002
+#EXTINF:-1 tvg-id="" tvg-name="|ES|TELEHIT" tvg-logo="" group-title="Espagnoles (España)",|ES|TELEHIT
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/6983
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BDN BADALONA SD" tvg-logo="" group-title="Espagnoles (España)",|ES| BDN BADALONA SD
+http://www.theking365tv.red:2103/0hemCEkpAN/1139909215/74017
